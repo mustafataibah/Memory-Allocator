@@ -39,6 +39,7 @@ To run the driver on a tiny test trace:
 
 ```sh
 unix> mdriver -V -f short1-bal.rep
+```
 
 ## Main Functions
 
